@@ -19,4 +19,8 @@ Goal of the experiment: let us try to segment the different areas of the human h
 -  training, validation cuts are already available from scratch, we did not need to separate these
 
 ### Instruction to run files:
-- 
+- Milestone_1/Human_Heart_Project_Visualization - working_dir needs to be specified and the specific subject to run the function for
+- Milestone_1/First_model - Creatas a baseline model for this experiment, you have to specify the working directories
+
+## End description
+TODO: !A Requirements.txt is on the way, we just want to wait until we completed the whole task to upload it in one go!
