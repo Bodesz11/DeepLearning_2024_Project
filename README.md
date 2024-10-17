@@ -7,7 +7,9 @@
 ## Milestone 1
 ### 1. Data source
 Link to the description of the data source: https://humanheart-project.creatis.insa-lyon.fr/database/
+
 Link to the data itself: https://humanheart-project.creatis.insa-lyon.fr/database/#collection/637218c173e9f0047faa00fb
+
 
 Goal of the experiment: let us try to segment the different areas of the human heart
 
