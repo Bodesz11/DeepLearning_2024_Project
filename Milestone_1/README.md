@@ -51,7 +51,7 @@ These functions enable visualization of the 3D medical images and their correspo
 Allows specification of different mask layers or slices to be plotted, facilitating detailed analysis of the segmentation performance.
 ## 6. Model Testing
 ### Purpose: 
-Loads the saved model and sets it to evaluation mode for testing.
+Loads the saved model and sets it to evaluation mode for testing. The loss on the test dataset is 0.086
 ### Process:
 After running inference on the test dataset, it compares the original masks with the predicted masks.
-Visual results are displayed, with differences highlighted, and saved as first_test.png for further inspection.
+Visual results are displayed, with differences highlighted, and saved as first_test.png for further inspection. 
