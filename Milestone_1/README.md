@@ -14,7 +14,7 @@ Resizing images and masks to a specified target size.
 Applying optional transformations and clamping mask values to ensure they fall within the valid range of classes.
 ## 2. UNet Class
 ### Purpose: 
-Implements the U-Net architecture, a powerful convolutional neural network commonly used for image segmentation tasks, particularly in medical imaging.
+For baseline we implement a small U-Net architecture, a powerful convolutional neural network commonly used for image segmentation tasks, particularly in medical imaging.
 ### Key Features:
 ### Architecture: 
 Comprises an encoder-decoder structure with multiple convolutional blocks, max pooling layers for downsampling, and transposed convolution layers for upsampling.
