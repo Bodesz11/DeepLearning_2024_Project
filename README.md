@@ -1,26 +1,27 @@
 # DeepLearning 2024 Project
 
-## Team description
-- Team Name: Sivatagi Romahcsigák
-- Team Members: Bárdos-Deák Botond [HS2APO], Bodai Adrián Tibor [OU1G79]
+## Team Description
+
+| **Team Name**                | **Team Members**                                              |
+|------------------------------|---------------------------------------------------------------|
+| Sivatagi Romahcsigák          | Bárdos-Deák Botond [HS2APO], Bodai Adrián Tibor [OU1G79]      |
 
 ## Milestone 1
-### 1. Data source
-Link to the description of the data source: https://humanheart-project.creatis.insa-lyon.fr/database/
 
-Link to the data itself: https://humanheart-project.creatis.insa-lyon.fr/database/#collection/637218c173e9f0047faa00fb
+### 1. Data Source
+- [Link to the description of the data source](https://humanheart-project.creatis.insa-lyon.fr/database/)
+- [Link to the data itself](https://humanheart-project.creatis.insa-lyon.fr/database/#collection/637218c173e9f0047faa00fb)
 
+**Goal of the experiment:** The goal is to segment different areas of the human heart.
 
-Goal of the experiment: let us try to segment the different areas of the human heart
+### 2. Other Tasks Regarding Milestone 1:
+- Data visualization is in the `Milestone_1` folder with recreatable GIFs for every single patient.
+- The data is prepared for training and can be fed into a neural network.
+- Training and validation sets are already available from scratch, so no further separation is needed.
 
-### 2. Other tasks regarding Milestone 1:
-- Data visualization is in the Milestone_1 folder with recreatable gif-s for every single patient
-- The data is prepared for training, we could feed it for a neural network
--  training, validation cuts are already available from scratch, we did not need to separate these
+### Instruction to Run Files:
+- `Milestone_1/Human_Heart_Project_Visualization`: You need to specify the working directory and the specific subject to run the function.
+- `Milestone_1/First_model`: Creates a baseline model for this experiment. You need to specify the working directories.
 
-### Instruction to run files:
-- Milestone_1/Human_Heart_Project_Visualization - working_dir needs to be specified and the specific subject to run the function for
-- Milestone_1/First_model - Creatas a baseline model for this experiment, you have to specify the working directories
-
-## End description
-TODO: !A Requirements.txt is on the way, we just want to wait until we completed the whole task to upload it in one go!
+## End Description
+**TODO:** A `Requirements.txt` is on the way. We will upload it once the entire task is complete!
