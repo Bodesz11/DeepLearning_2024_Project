@@ -10,3 +10,7 @@
 - `train_model.py`: The images must be in the specified folder in `X_.nii` format
 - `model_test_vis.ipynb`: Creates a baseline model for this experiment. You need to specify the working directories.
 - `model.pt`: Contain the saved pytorch model
+
+### Future plans:
+- Add learning rate scheduler nad early stoppint to into the training function
+- Create Ensemble model from the best performing models.
