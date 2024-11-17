@@ -20,7 +20,7 @@
    - Displays the architecture of the U-Net model.
 
 5. **`model_test.png`**:
-   - Demonstrates the outputs of different models. You can download the pre-trained models for testing from this [link](https://drive.google.com/drive/f).
+   - Demonstrates the outputs of different models. You can download the pre-trained models for testing from this [link]([https://drive.google.com/drive/f](https://drive.google.com/drive/folders/1HoITBBdEqvn5jGgTBSaabvxBBGlsXMt5?usp=drive_link)).
 
 6. **`requirements.txt`**:
    - Lists all necessary packages and dependencies for running the project.
