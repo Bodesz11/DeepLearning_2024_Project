@@ -8,7 +8,7 @@
 
 ### Instruction to Run Files:
 - `train_model.py`: The images must be in the specified folder in `X_.nii` format
-- `model_test_vis.ipynb`: Creates a baseline model for this experiment. You need to specify the working directories.
+- `model_test_vis.ipynb`: You can visualise the predicted masks, of the different models, what can loadad from .pt files.
 - `model.pt`: Contain the saved pytorch model
 
 ### Future plans:
