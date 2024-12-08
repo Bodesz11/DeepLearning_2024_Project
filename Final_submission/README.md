@@ -28,7 +28,7 @@ Final_submission/<br>
 │   ├── **models_test.ipynb**          # Notebook for testing the models<br>
 │   └── **All_models_evaluation_and_thresholding.ipynb**  # Notebook for evaluating models and applying thresholds<br>
 │<br>
-├── **models/**                        # Directory to store trained models (not included in the tree)<br>
+├── **models/**                        # Directory to store trained models (not included in the tree) But the pre-trained models are availabe [here](https://drive.google.com/drive/folders/1HoITBBdEqvn5jGgTBSaabvxBBGlsXMt5?usp=sharing).<br>
 │<br>
 ├── **README.md**                      # Main documentation for the repository<br>
 │<br>
