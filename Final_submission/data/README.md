@@ -36,7 +36,7 @@ Below is a 5x5 grid of frames and masks:
   </p>
 <p float="left">
 
-  <img src="./patient001_frame01_000.png" width="100" />
+  <img src="./patient001_frame01_000_mask3.png" width="100" />
   <img src="./patient001_frame01_001.png" width="100" />
   <img src="./patient001_frame01_002.png" width="100" />
   <img src="./patient001_frame01_003.png" width="100" />
