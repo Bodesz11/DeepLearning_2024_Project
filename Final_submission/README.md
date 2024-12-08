@@ -8,7 +8,39 @@ This project focuses on medical image segmentation using various deep learning a
 
 ## **Repository Structure**
 
-Final_submission/ │ ├── Reorganized_repo/ # Directory containing organized project files │ ├── DataLoader.py # Custom data loader for medical images and masks │ ├── Data_preproc.py # Data preprocessing script (converts NIfTI to PNG, etc.) │ ├── Evaluate_model.py # Functions for evaluating model performance │ ├── Model.py # Model definitions (DeepLabV3, LinkNet, MANet, U-Net) │ ├── Plot_model_outputs.py # Visualization functions for model outputs and masks │ ├── Train_model.py # Script for training models │ ├── config.json # Configuration file (paths, model settings, hyperparameters) │ └── main.py # Main script to run the training and evaluation process │ ├── data/ # Directory for storing data (images and masks) │ ├── notebooks/ # Jupyter notebooks for exploration and visualization │ ├── data_vis.ipynb # Data visualization and exploration notebook │ ├── models_train.ipynb # Notebook for training the models │ ├── models_test.ipynb # Notebook for testing the models │ └── All_models_evaluation_and_thresholding.ipynb # Notebook for evaluating models and applying thresholds │ ├── models/ # Directory to store trained models (not included in the tree) │ ├── README.md # Main documentation for the repository │ ├── requirements.txt # List of dependencies required for the project │ └── Final_submission/ # Submission directory (contains project deliverables) ├── DeepLabV3.gv.png # Visualization of DeepLabV3 architecture ├── Linknet.gv.png # Visualization of LinkNet architecture ├── Manet.gv.png # Visualization of MANet architecture ├── U-net.gv.png # Visualization of U-Net architecture └── README.md # Documentation specific to the submission
+Final_submission/
+│
+├── **Reorganized_repo/**              # Directory containing organized project files
+│   ├── **DataLoader.py**              # Custom data loader for medical images and masks
+│   ├── **Data_preproc.py**            # Data preprocessing script (converts NIfTI to PNG, etc.)
+│   ├── **Evaluate_model.py**          # Functions for evaluating model performance
+│   ├── **Model.py**                   # Model definitions (DeepLabV3, LinkNet, MANet, U-Net)
+│   ├── **Plot_model_outputs.py**      # Visualization functions for model outputs and masks
+│   ├── **Train_model.py**             # Script for training models
+│   ├── **config.json**                # Configuration file (paths, model settings, hyperparameters)
+│   └── **main.py**                    # Main script to run the training and evaluation process
+│
+├── **data/**                          # Directory for storing data (images and masks)
+│
+├── **notebooks/**                     # Jupyter notebooks for exploration and visualization
+│   ├── **data_vis.ipynb**             # Data visualization and exploration notebook
+│   ├── **models_train.ipynb**         # Notebook for training the models
+│   ├── **models_test.ipynb**          # Notebook for testing the models
+│   └── **All_models_evaluation_and_thresholding.ipynb**  # Notebook for evaluating models and applying thresholds
+│
+├── **models/**                        # Directory to store trained models (not included in the tree)
+│
+├── **README.md**                      # Main documentation for the repository
+│
+├── **requirements.txt**               # List of dependencies required for the project
+│
+└── **Final_submission/**              # Submission directory (contains project deliverables)
+    ├── **DeepLabV3.gv.png**           # Visualization of DeepLabV3 architecture
+    ├── **Linknet.gv.png**             # Visualization of LinkNet architecture
+    ├── **Manet.gv.png**               # Visualization of MANet architecture
+    ├── **U-net.gv.png**               # Visualization of U-Net architecture
+    └── **README.md**                  # Documentation specific to the submission
+
 
 markdown
 Kód másolása
