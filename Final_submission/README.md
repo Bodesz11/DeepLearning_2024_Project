@@ -9,7 +9,7 @@ This project focuses on medical image segmentation using various deep learning a
 ## **Repository Structure**
 
 Final_submission/
-│
+│\\
 ├── **Reorganized_repo/**              # Directory containing organized project files
 │   ├── **DataLoader.py**              # Custom data loader for medical images and masks
 │   ├── **Data_preproc.py**            # Data preprocessing script (converts NIfTI to PNG, etc.)
