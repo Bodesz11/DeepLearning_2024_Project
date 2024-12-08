@@ -1,0 +1,9 @@
+{
+    "input_dir": "./data",
+    "output_dir": "./outputs",
+    "train": false,
+    "model_path": "./best_model.pth",
+    "model_type": "Unet",
+    "batch_size": 16,
+    "num_epochs": 20
+}
