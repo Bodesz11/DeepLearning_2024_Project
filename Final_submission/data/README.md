@@ -11,25 +11,26 @@ Below is a 5x5 grid of frames and masks:
   <img src="./patient001_frame01_0000_004.png" width="100" />
   
   <img src="./patient001_frame01_000_mask1.png" width="100" />
-  <img src="./patient001_frame01_000_mask2.png" width="100" />
-  <img src="./patient001_frame01_000_mask3.png" width="100" />
-  <img src="./patient001_frame01_001.png" width="100" />
   <img src="./patient001_frame01_001_mask1.png" width="100" />
-  
-  <img src="./patient001_frame01_001_mask2.png" width="100" />
-  <img src="./patient001_frame01_001_mask3.png" width="100" />
-  <img src="./patient001_frame01_002.png" width="100" />
   <img src="./patient001_frame01_002_mask1.png" width="100" />
-  <img src="./patient001_frame01_002_mask2.png" width="100" />
-  
-  <img src="./patient001_frame01_002_mask3.png" width="100" />
-  <img src="./patient001_frame01_003.png" width="100" />
   <img src="./patient001_frame01_003_mask1.png" width="100" />
-  <img src="./patient001_frame01_003_mask2.png" width="100" />
-  <img src="./patient001_frame01_003_mask3.png" width="100" />
-  
-  <img src="./patient001_frame01_004.png" width="100" />
   <img src="./patient001_frame01_004_mask1.png" width="100" />
+  
+  <img src="./patient001_frame01_000_mask2.png" width="100" />
+  <img src="./patient001_frame01_001_mask2.png" width="100" />
+  <img src="./patient001_frame01_002_mask2.png" width="100" />
+  <img src="./patient001_frame01_003_mask2.png" width="100" />
   <img src="./patient001_frame01_004_mask2.png" width="100" />
+  
+  <img src="./patient001_frame01_000_mask3.png" width="100" />
+  <img src="./patient001_frame01_001_mask3.png" width="100" />
+  <img src="./patient001_frame01_002_mask3.png" width="100" />
+  <img src="./patient001_frame01_003_mask3.png" width="100" />
   <img src="./patient001_frame01_004_mask3.png" width="100" />
+
+  <img src="./patient001_frame01_000.png" width="100" />
+  <img src="./patient001_frame01_001.png" width="100" />
+  <img src="./patient001_frame01_002.png" width="100" />
+  <img src="./patient001_frame01_003.png" width="100" />
+  <img src="./patient001_frame01_004.png" width="100" />
 </div>
