@@ -43,8 +43,6 @@ Final_submission/<br>
 
 
 
-markdown
-Kód másolása
 
 ## **How to Use**
 
