@@ -3,7 +3,7 @@ Here are some examples for masks and original images.
 
 Below is a 5x5 grid of frames and masks:
 
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="./patient001_frame01_0000_000.png" width="100" />
   <img src="./patient001_frame01_0000_001.png" width="100" />
   <img src="./patient001_frame01_0000_002.png" width="100" />
