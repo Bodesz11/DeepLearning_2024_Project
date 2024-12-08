@@ -1,7 +1,6 @@
-Here are some examples for masks and original images.
-# Medical Image Frames and Masks
+# Images and Masks
 
-Below is a 5x5 grid of frames and masks:
+Here are some examples for masks and original images. In the first row there are the original images, the rows below show the masks.
 
 <p float="left">
   <img src="./patient001_frame01_0000_000.png" width="100" />
